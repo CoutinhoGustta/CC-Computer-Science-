@@ -1,0 +1,8 @@
+Multiplicação de 2 numeros
+
+num1 = float(input("Digite o primeiro número: ")) #Receber o primeiro numero
+num2 = float(input("Digite o segundo número: ")) # Receber o segundo numero
+
+multi = n1 * n2 # Multiplica os numeros
+
+print("Resultado:", multi) #Exibe o resultado
