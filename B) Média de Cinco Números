@@ -1,0 +1,11 @@
+Média de Cinco Números
+
+num1 = float(input("Digite o 1º número: ")) #Recebe o primeiro numero
+num2 = float(input("Digite o 2º número: ")) #Recebe o segundo numero
+num3 = float(input("Digite o 3º número: ")) #Recebe o terceiro numero 
+num4 = float(input("Digite o 4º número: ")) #Recebe o quarto numero 
+num5 = float(input("Digite o 5º número: ")) #Recebe o quinto numero
+
+media = (n1 + n2 + n3 + n4 + n5) / 5  #Recebe a media dos numeros
+
+print("Média:", media) # Exibe a media dos numeros
