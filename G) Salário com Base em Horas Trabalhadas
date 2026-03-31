@@ -1,0 +1,8 @@
+Salário com Base em Horas Trabalhadas
+
+horas = float(input("Digite a quantidade de horas trabalhadas: "))   # Recebe as horas trabalhadas
+valor_hora = float(input("Digite o valor da hora: "))   # Digita o valor por hora que ira receber
+
+salario = horas * valor_hora   # Multiplica a hora pelo valor da hora
+
+print("Salário total:", salario)   #Exibe o resultado do salario
