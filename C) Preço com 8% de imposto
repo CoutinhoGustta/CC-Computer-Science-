@@ -1,0 +1,7 @@
+Preço com 8% de imposto
+
+prod = float(input("Digite o valor do produto: "))    # Valor do produto
+
+preco_final = preco * 1.08    #preço final do produto
+
+print("Preço final:", preco_final)    # Exibir o valor do produto +8% de taxa
