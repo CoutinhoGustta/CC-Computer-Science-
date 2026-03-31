@@ -1,0 +1,6 @@
+num1 = float(input("Digite o primeiro número: "))    # Recebe o primeiro numero
+num2 = float(input("Digite o segundo número: "))    # Recebe o segundo numero
+
+resultado = num1 - num2    # Resultado final
+
+print("Resultado:", resultado)    # Exibe o resultado final
