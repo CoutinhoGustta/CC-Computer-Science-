@@ -1,3 +1,3 @@
 # Repositório para Aulas e atividades
 
-Testando o add ., commit, e push
+Repositorio usado para Faculdade, contando atividades e coisas relacionadas.
